@@ -1,4 +1,8 @@
 = Database Changelog =
+
+[v.167] 01/04/2013
+  * Little change for wiiflow settings file (for new install)
+
 [v.166] 01/04/2013
   * Updated Wiimc to 1.3.3
   * Updated Wiimc channel installer to 2.0
