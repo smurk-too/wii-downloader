@@ -1,7 +1,7 @@
 = Application Changelog =
 
 [v3.1] 04/04/2013
- * Some graphic adjust for user with DPI setting to 125 % (with 150 actually Wiidownloader is quite bad))
+ * Some graphic adjust for user with DPI setting to 125 % (with 150 actually Wiidownloader is quite bad)
  * Now application will take admin privileges at start-up
 
 [v3.0] 27/03/2013
