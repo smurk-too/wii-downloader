@@ -1,5 +1,8 @@
 = Database Changelog =
 
+[v.168] 06/04/2013
+  * Added some message about wilbrand and hombebrew channel in all language files
+
 [v.167] 01/04/2013
   * Little change for wiiflow settings file (for new install)
 
