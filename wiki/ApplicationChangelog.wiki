@@ -1,4 +1,7 @@
 = Application Changelog =
+[v3.2] 05/04/2013
+ * Added some message (in more language) for explain why is necessary to put MAC address (using "mod your Wii")
+ * Some other little fixes
 
 [v3.1] 04/04/2013
  * Some graphic adjust for user with DPI setting to 125 % (with 150 actually Wiidownloader is quite bad)
