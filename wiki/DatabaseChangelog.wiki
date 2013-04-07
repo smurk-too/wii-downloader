@@ -1,5 +1,8 @@
 = Database Changelog =
 
+[v.169] 08/04/2013
+  * Changed some link (from mediafire to code.google) for some homebrew.
+
 [v.168] 06/04/2013
   * Added some message about wilbrand and hombebrew channel in all language files
 
