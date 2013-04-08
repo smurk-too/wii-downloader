@@ -1,5 +1,8 @@
 = Database Changelog =
 
+[v.170] 08/04/2013
+  * Corrected some typo error in Italian tutorial 
+
 [v.169] 08/04/2013
   * Changed some link (from mediafire to code.google) for some homebrew.
 
