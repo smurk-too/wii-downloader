@@ -1,5 +1,8 @@
 = Database Changelog =
 
+[v.172] 09/04/2013
+  * Added Wii64 (homebrew and forwarder)
+
 [v.171] 09/04/2013
   * Corrected translation in french ini file (thanks Ayatus)
   * now all settings for loader will downloaded form code.google
