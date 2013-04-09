@@ -1,5 +1,9 @@
 = Database Changelog =
 
+[v.171] 09/04/2013
+  * Corrected translation in french ini file (thanks Ayatus)
+  * now all settings for loader will downloaded form code.google
+
 [v.170] 08/04/2013
   * Corrected some typo error in Italian tutorial 
 
