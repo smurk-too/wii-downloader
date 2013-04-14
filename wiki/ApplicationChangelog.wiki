@@ -1,4 +1,7 @@
 = Application Changelog =
+[v3.3] 14/04/2013
+ * Add function for extract .tar.gz archive
+
 [v3.2] 05/04/2013
  * Added some message (in more language) for explain why is necessary to put MAC address (using "mod your Wii")
  * Some other little fixes
