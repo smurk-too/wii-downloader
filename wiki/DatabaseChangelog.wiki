@@ -1,9 +1,11 @@
 = Database Changelog =
 
-[v.173] 14/04/2013 (incoming...)
-  * Added Wiibrowser (r.70)
-  * Added FBZX Wii v.10
-  * Added They Do Not Die 2 v.0.9
+[v.173] 14/04/2013
+  * Added Wiibrowser (r.70) (utility)
+  * Added FBZX Wii v.10 (emulators)
+  * Added Wiipoker (games)
+  * Added Tong (games)
+  * Added They Do Not Die 2 v.0.9 (games)
 
 [v.172] 09/04/2013
   * Added Wii64 (homebrew and forwarder)
