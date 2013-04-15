@@ -1,5 +1,8 @@
 = Database Changelog =
 
+[v.174] 15/04/2013
+ * Updated GX to r.1213
+
 [v.173] 14/04/2013
   * Added Wiibrowser (r.70) (utility)
   * Added FBZX Wii v.10 (emulators)
