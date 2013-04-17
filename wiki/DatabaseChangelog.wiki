@@ -78,7 +78,7 @@
  * Added MyMenuifyMOD v1.5 ( in "Homebrew - Utility")
 
 [v.152] 24/01/2013
- * ModMii updated to 6.2.5
+ * Modmii updated to 6.2.5
 
 [v.151] 21/01/2013
  * Some add-on in italian tutorial.
@@ -129,7 +129,7 @@
  * Updated France tutorial (thanks to bendis6)
 
 [v.136] 17/12/2012
- * Added [1] button in images for tutorial
+ * Added (1) button in images for tutorial
 
 [v.135] 16/12/2012
  * Little changes in tutorial (about use of hackmii installer)
