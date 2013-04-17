@@ -1,5 +1,8 @@
 = Database Changelog =
 
+[v.175] 17/04/2013
+ * Fixed script for download Internet Channel (Opera) USA
+
 [v.174] 15/04/2013
  * Updated GX to r.1213
 
