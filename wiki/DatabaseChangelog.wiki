@@ -237,9 +237,7 @@
  * Some little correction..
 
 [v.103] 09/11/2012
- * Create tutorial files for help and tutorial
-  I'm SURE that there so much error (typo.. bad English) but I'll fix next time,
-  now I'm too tired.. +__+
+ * Create tutorial files for help and tutorial (I'm SURE that there so much error: typo.. bad English.. but I'll fix next time, now I'm too tired.. XD
 
 [v.102] 08/11/2012
  * I forgot to include information about the size of the wad
