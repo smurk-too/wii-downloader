@@ -1,5 +1,9 @@
 = Database Changelog =
 
+[v.178] 20/05/2013
+ * Corrected MD5 for simple IOS pathcer
+ * Some little change in Italian tutorial
+
 [v.177] 01/05/2013
  * Updated GX to r.1214
  * Updated FBZX Wii to v.10.2
