@@ -1,5 +1,8 @@
 = Database Changelog =
 
+[v.179] 28/05/2013
+ * Updated GX to r.1215
+
 [v.178] 20/05/2013
  * Corrected MD5 for simple IOS pathcer
  * Some little change in Italian tutorial
