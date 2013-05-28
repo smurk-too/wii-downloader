@@ -1,5 +1,9 @@
 = Application Changelog =
 
+[v4.0] 27/05/2013
+ * Little changes in error description (for a further wiki page)
+ * Great changes in my life: Two days ago I became father of a beautiful girl!!! ^____^
+
 [v3.5] 12/05/2013
  * Add a message in cause of time-out using external applications (99% is a firewall/antivirus problem)
 
