@@ -4,6 +4,7 @@
 [v.181] 30/08/2013
  * Updated GX to r.1217
  * Updated CFG mod to r.65
+ * Changed link for CFG forwarders
 
 [v.180] 18/06/2013
  * Updated Wiiflow to 4.1.3 (r.439)
