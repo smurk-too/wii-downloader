@@ -1,6 +1,10 @@
 #summary Database Changelog
 = Database Changelog =
 
+[v.182] 19/10/2013
+ * Updated GX to r.1218 (and foxed configuration file for games that need cIOS with IOS 57 base)
+ * Updated Wiiflow to 4.2 (r.440)
+
 [v.181] 30/08/2013
  * Updated GX to r.1217
  * Updated CFG mod to r.65
