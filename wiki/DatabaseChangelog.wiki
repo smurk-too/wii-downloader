@@ -1,6 +1,10 @@
 #summary Database Changelog
 = Database Changelog =
 
+[v.183] 19/10/2013
+ * Fixed an issue in GX game configuration file
+ * Fixed spanish translations for application and tutorial: Special thanks to NaxoR93!!
+
 [v.182] 19/10/2013
  * Updated GX to r.1218 (and fixed configuration file for games that need cIOS with IOS 57 base)
  * Updated Wiiflow to 4.2 (r.440)
