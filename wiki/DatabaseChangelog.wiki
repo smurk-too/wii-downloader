@@ -1,6 +1,9 @@
 #summary Database Changelog
 = Database Changelog =
 
+[v.184] 20/10/2013
+ * Updated chinese.ini file (thanks to kavid !!) 
+
 [v.183] 19/10/2013
  * Fixed an issue in GX game configuration file
  * Fixed spanish translations for application and tutorial: Special thanks to NaxoR93 !
