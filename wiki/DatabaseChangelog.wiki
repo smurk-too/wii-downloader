@@ -1,6 +1,11 @@
 #summary Database Changelog
 = Database Changelog =
 
+[v.185] 30/11/2013
+ * Updated Settings Editor GUI to v.1.9
+ * Updated Clean Rip to v.2.0.0
+ * Updated WimMC to v.1.3.4
+
 [v.184] 20/10/2013
  * Updated chinese.ini file (thanks to kavid !!) 
 
