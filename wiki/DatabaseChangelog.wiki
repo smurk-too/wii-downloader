@@ -1,6 +1,10 @@
 #summary Database Changelog
 = Database Changelog =
 
+[v.186] 01/01/2014
+ * Updated Wiiflow to 4.2 (r.441)
+ * Added Patched System IOS scritp (those are without DIP module)
+
 [v.185] 30/11/2013
  * Updated Settings Editor GUI to v.1.9
  * Updated Clean Rip to v.2.0.0
