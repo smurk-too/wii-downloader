@@ -2,8 +2,8 @@
 = Application Changelog =
 
 [v4.1] 01/01/2014
- * Added Neogamma [recompiled full channel] in ModYourWii page
- * Added d2x beta53 in ModYourWii page
+ * Added Neogamma (recompiled full channel) in Mod-Your-Wii page
+ * Added d2x beta53 in Mod-Your-Wii page
  * Added other md5 check
  * Happy new year !
 
