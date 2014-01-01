@@ -1,6 +1,12 @@
 #summary Application Changelog
 = Application Changelog =
 
+[v4.1] 01/01/2014
+ * Added Neogamma [recompiled full channel] in ModYourWii page
+ * Added d2x beta53 in ModYourWii page
+ * Added other md5 check
+ * Happy new year !
+
 [v4.0] 27/05/2013
  * Little changes in error description (for a further wiki page)
  * Great changes in my life: Two days ago I became father of a beautiful girl!!! =D
