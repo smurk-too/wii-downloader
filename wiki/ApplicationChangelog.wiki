@@ -2,7 +2,7 @@
 = Application Changelog =
 
 [v5.0] 04/01/2014
- * Little fix in Mod-Your-Wii page
+ * Little fix in Mod-Your-Wii page (Check box for download hackmii installer IOS wasn't checked at startup)
  * Improve function for create patched IOS
  * Little graphics adjustment
  * No more release. (code.google wont' permit more upload)
