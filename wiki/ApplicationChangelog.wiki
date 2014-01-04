@@ -5,7 +5,7 @@
  * Little fix in Mod-Your-Wii page (Check box for download hackmii installer IOS wasn't checked at startup)
  * Improve function for create patched IOS
  * Little graphics adjustment
- * No more release. (code.google wont' permit more upload)
+ * No more release. (code.google wont permit more upload)
 
 [v4.2] 01/01/2014
  * Little fix. No changes.
