@@ -1,6 +1,9 @@
 #summary Application Changelog
 = Application Changelog =
 
+[v5.1] 08/01/2014
+ * Little fix in editor for cIOS.
+
 [v5.0] 04/01/2014
  * Little fix in Mod-Your-Wii page (Check box for download hackmii installer IOS wasn't checked at startup)
  * Improve function for create patched IOS
