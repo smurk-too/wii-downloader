@@ -1,6 +1,10 @@
 #summary Application Changelog
 = Application Changelog =
 
+
+[v5.2] 13/01/2014
+ * Other changes in cIOS editor
+
 [v5.1] 08/01/2014
  * Little fix in editor for cIOS.
 
