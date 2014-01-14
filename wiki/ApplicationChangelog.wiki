@@ -2,6 +2,9 @@
 = Application Changelog =
 
 
+[v5.3] 13/01/2014
+ * Added Check box for download Active IOS with d2x cIOS (for run burned DVD from disc channel)
+
 [v5.2] 13/01/2014
  * Other changes in cIOS editor
 
