@@ -1,6 +1,9 @@
 #summary Database Changelog
 = Database Changelog =
 
+[v.187-188-189] 14/01/2014
+ * Added some script in WAD - IOS
+
 [v.186] 01/01/2014
  * Updated Wiiflow to 4.2 (r.441)
  * Added Patched System IOS scritp (those are without DIP module)
