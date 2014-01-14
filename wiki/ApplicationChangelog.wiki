@@ -1,8 +1,11 @@
 #summary Application Changelog
 = Application Changelog =
 
+[v5.4] 14/01/2014
+ * Added Dialog box (for confirm) before save script in case of patched IOS checked
+ * sorry for those release but code.google tomorrow stop upload. =(
 
-[v5.3] 13/01/2014
+[v5.3] 14/01/2014
  * Added Check box for download Active IOS with d2x cIOS (for run burned DVD from disc channel)
 
 [v5.2] 13/01/2014
