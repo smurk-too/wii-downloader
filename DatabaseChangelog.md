@@ -1,0 +1,371 @@
+# Database Changelog #
+
+[v.187-188-189] 14/01/2014
+  * Added some script in WAD - IOS
+
+[v.186] 01/01/2014
+  * Updated Wiiflow to 4.2 (r.441)
+  * Added Patched System IOS scritp (those are without DIP module)
+
+[v.185] 30/11/2013
+  * Updated Settings Editor GUI to v.1.9
+  * Updated Clean Rip to v.2.0.0
+  * Updated WimMC to v.1.3.4
+
+[v.184] 20/10/2013
+  * Updated chinese.ini file (thanks to kavid !!)
+
+[v.183] 19/10/2013
+  * Fixed an issue in GX game configuration file
+  * Fixed spanish translations for application and tutorial: Special thanks to NaxoR93 !
+
+[v.182] 19/10/2013
+  * Updated GX to r.1218 (and fixed configuration file for games that need cIOS with IOS 57 base)
+  * Updated Wiiflow to 4.2 (r.440)
+
+[v.181] 30/08/2013
+  * Updated GX to r.1217
+  * Updated CFG mod to r.65
+  * Changed link for CFG forwarders
+
+[v.180] 18/06/2013
+  * Updated Wiiflow to 4.1.3 (r.439)
+
+[v.179] 28/05/2013
+  * Updated GX to r.1215
+
+[v.178] 20/05/2013
+  * Corrected MD5 for simple IOS pathcer
+  * Some little change in Italian tutorial
+
+[v.177] 01/05/2013
+  * Updated GX to r.1214
+  * Updated FBZX Wii to v.10.2
+  * Added Wii Chatter 0.3 (utility)
+
+[v.176] 22/04/2013
+  * Updated Wiiflow to 4.1.2 (r.438)
+  * Correct Spanish translation (thanks to bluegamer)
+
+[v.175] 17/04/2013
+  * Fixed script for download Internet Channel (Opera) USA
+
+[v.174] 15/04/2013
+  * Updated GX to r.1213
+
+[v.173] 14/04/2013
+  * Added Wiibrowser (r.70) (utility)
+  * Added FBZX Wii v.10 (emulators)
+  * Added Wiipoker (games)
+  * Added Tong (games)
+  * Added They Do Not Die 2 v.0.9 (games)
+
+[v.172] 09/04/2013
+  * Added Wii64 (homebrew and forwarder)
+
+[v.171] 09/04/2013
+  * Corrected translation in french ini file (thanks Ayatus)
+  * now all settings for loader will downloaded form code.google
+
+[v.170] 08/04/2013
+  * Corrected some typo error in Italian tutorial
+
+[v.169] 08/04/2013
+  * Changed some link (from mediafire to code.google) for some homebrew.
+
+[v.168] 06/04/2013
+  * Added some message about wilbrand and hombebrew channel in all language files
+
+[v.167] 01/04/2013
+  * Little change for wiiflow settings file (for new install)
+
+[v.166] 01/04/2013
+  * Updated Wiimc to 1.3.3
+  * Updated Wiimc channel installer to 2.0
+
+[v.165] 01/04/2013
+  * Updated Wiiflow to 4.1.1 (r.437)
+  * Changed link for WAM (now is hosted in code.google)
+
+[v.164] 23/03/2013
+  * Added text for all ini file languages for enable/disable console view.
+
+[v.163] 21/03/2013
+  * Updated GX to r.1211
+
+[v.162] 17/03/2013
+  * Changed so much link: all file hosted in dropbox, now are hosted in mediafire (I have made this because Chinese user can't access to dropbox files)
+
+[v.161] 12/03/2013
+  * Some add-on in italian tutorial
+  * Add message in all language files for notify when the tutorial is created
+
+[v.160] 27/02/2013
+  * Changed wiitdb link for Wiiflow
+
+[v.159] 24/02/2013
+  * Updated link for GX (but always for r.1209)
+
+[v.158] 15/02/2013
+  * Updated FCE Ultra GX to v3.3.4
+
+[v.157] 12/02/2013
+  * Added some script in "homebrew - games" <sup>__</sup>
+
+[v.156] 10/02/2013
+  * Updated Wiiearth to 2.3
+
+[v.155] 10/02/2013
+  * Some uptade in wiiflow settings file
+
+[v.154] 06/02/2013
+  * Fixed spanish translations: Special thanks to NaxoR93
+
+[v.153] 25/01/2013
+  * Added MyMenuifyMOD v1.5 ( in "Homebrew - Utility")
+
+[v.152] 24/01/2013
+  * Modmii updated to 6.2.5
+
+[v.151] 21/01/2013
+  * Some add-on in italian tutorial.
+
+[v.150] 21/01/2013
+  * Updated GX to r.1209
+  * Removed russian support
+  * Now all file of loader cen be stroed in cache (not only gametdb package, that change evry day)
+
+[v.149] 15/01/2013
+  * Some little changes in Italian tutorial
+
+[v.148] 14/01/2013
+  * Updated CFG mod to r.51
+
+[v.147] 12/01/2013
+  * Other changes in Italian tutorial
+
+[v.146] 10/01/2013
+  * Correct error in link for CFG USB Loader Glass forwarder
+
+[v.145] 07/01/2013
+  * Updated GX to 1208
+  * Some changes in Italian tutorial
+
+[v.144] 04/01/2013
+  * Updated wiimc to v.1.3.2
+
+[v.143] 02/01/2013
+  * Updated all MD5 for downloadable archive
+
+[v.142] 31/12/2012
+  * Updated Wiiflow to r.4.1
+
+[v.141] 29/12/2012
+  * Removed script for v9 (now there is v10)
+
+[v.140] 28/12/2012
+  * Updated syscheck to v 2.1.0 (beta 19)
+
+[v.139] 24/12/2012
+  * Added d2x v10 in "WAD-cIOS"
+
+[v.138] 23/12/2012
+  * Updated nusDatabase.ini with MD5 of all downloadable titles
+
+[v.137] 18/12/2012
+  * Updated France tutorial (thanks to bendis6)
+
+[v.136] 17/12/2012
+  * Added (1) button in images for tutorial
+
+[v.135] 16/12/2012
+  * Little changes in tutorial (about use of hackmii installer)
+
+[v.134] 14/12/2012
+  * Little changes in tutorial (about WAD for IOS236 installer)
+
+[v.133] 14/12/2012
+  * Updated CFG mod to r.50
+
+[v.132] 08/12/2012
+  * Changed scripts for Hackmii Installer
+
+[v.131] 08/12/2012
+  * Updated GX to r.1207\_mod1
+  * Uèdated Wiiflow to r.4.0.5
+  * Updated Priiloader to priiloader\_MOD\_IOS236\_r.142\_LULZ (for new hbc 1.1.2)
+
+[v.130] 08/12/2012
+  * Come back to Hackmii Installer 1.0
+
+[v.129] 08/12/2012
+  * Updated Hackmii Installer script (v1.2)
+
+[v.128] 08/12/2012
+  * Updated Hackmii Installer script (v1.1)
+
+[v.127] 07/12/2012
+  * Added (-) button image
+
+[v.126] 07/12/2012
+  * Some change in all tutorial file
+
+[v.125] 04/12/2012
+  * ... oO I don't remember!! LOL
+
+[v.124] 03/12/2012
+  * Update WAM (and WAM.it) to v3.0
+
+[v.123] 01/12/2012
+  * Explain (in tutorial) also the files that can be deleted after soft-mod (if you follow my guide obviously)
+
+[v.123] 29/11/2012
+  * Added some info in HELP info in "about your Wii"
+
+[v.122] 25/11/2012
+  * Added any-region-changer
+
+[v.121] 25/11/2012
+  * Updated Genesis Plus GX to v1.7.2
+
+[v.120] 24/11/2012
+  * Add EULA and Region Select in Standard Database (Official Hidden Channels)
+
+[v.119] 23/11/2012
+  * Add Glass and Matrix Forwarder for CFG USB Loader
+
+[v.118] 21/11/2012
+  * Update WAM (and WAM.it) to 2.9
+
+[v.117] 21/11/2012
+  * Some correction in italian tutorial file
+
+[v.116] 18/11/2012
+  * Updated Wiiflow to 4.0.4 (r.434)
+
+[v.115] 18/11/2012
+  * Update WAM (and WAM.it) to 2.8
+
+[v.114] 16/11/2012
+  * Added some Wiiflow Forwarder
+  * Updated FCE Ultra GX -> v3.3.2
+
+[v.113] 15/11/2012
+  * Updated MD5 check for all downloadable files.
+
+[v.112] 14/11/2012
+  * Update WAM (and WAM.it) to 2.7
+  * Update pimp-my-wii to 2.32
+  * Update WAD for use Pimp Offline
+
+[v.111] 13/11/2012
+  * Update WAM to 2.5
+  * Update GX beta to r.1204
+
+[v.110] 11/11/2012
+  * Some correction for all tutorial file
+
+[v.109] 11/11/2012
+  * Some little correction in Italian tutorial file
+
+[v.108] 11/11/2012
+  * Added greeting in tutorial file <sup>__</sup>
+
+[v.107] 11/11/2012
+  * Much changes in tutorial files (but actually only in Italian and English)
+
+[v.106] 10/11/2012
+  * some correction in tutorial file
+
+[v.105] 09/11/2012
+  * other typo.. o_O_
+
+[v.104] 09/11/2012
+  * Some little correction..
+
+[v.103] 09/11/2012
+  * Create tutorial files for help and tutorial (I'm SURE that there so much error: typo.. bad English.. but I'll fix next time, now I'm too tired.. XD
+
+[v.102] 08/11/2012
+  * I forgot to include information about the size of the wad
+
+[v.101] 08/11/2012
+  * Added RVL-Shopping-v21 for all region in nus.ini
+  * Updated necessary script to Shopping-v21
+  * Added IOS62v6430 in Active IOS script
+  * Updated Portuguese ini file (thanks to NunonixXd)
+
+[v.100] 07/11/2012
+  * Added IOS62v6430 in nus.ini
+
+[v.99] 07/11/2012
+  * Added WAM 2.3 (english version).. 2.2 was only italian.
+
+[v.98] 06/11/2012
+  * Added some games
+
+[v.97] 05/11/2012
+  * Wrong image name for Neogamma
+
+[v.96] 04/11/2012
+  * Some change in french ini file (thanks to bendis6)
+
+[v.95] 04/11/2012
+  * Little correction in chinese.ini file
+  * Added some Forwarder
+
+[v.94] 03/11/2012
+  * Add "cache" editable text in all ini files
+
+[v.93] 03/11/2012
+  * Updated chinese.ini file (thanks to kavid)
+  * Updated CFG USB Loader to r.49
+
+[v.92] 02/11/2012
+  * Added some Forwarder (WAD - Forwarder)
+  * Added Neogamma (Homebrew - Loader - Neogamma)
+
+[v.91] 29/10/2012
+  * Added russian.ini (but still in english)
+  * Added other editable message in all .ini files
+
+[v.90] 29/10/2012
+  * Added some editable text for cache
+
+[v.89] 28/10/2012
+  * Some add in Chinese ini file (thanks to kavid)
+
+[v.88] 28/10/2012
+  * Some add in french ini file (thanks to bendis6)
+
+[v.87] 23/10/2012
+  * Other add in language.ini for cache fature
+
+[v.86] 22/10/2012
+  * Little change in some script (i must do it for the incoming "cache feature")
+  * Add some editable text in all languages.ini files (for editor mode)
+
+[v.85] 22/10/2012
+  * Completed español.ini (sorry, but I made it using google.translate....)
+
+[v.84] 21/10/2012
+  * update Wiiflow latest release to 4.0.3 (r.433)
+  * Added some Forwarder (WAD - Forwarder)
+  * Added Wiixplorer (Homebrew - Utility)
+
+[v.83] 19/10/2012
+  * corrected some error in italian.ini ( LOL )
+
+[v.82] 18/10/2012
+  * added Dutch Language (thanks to ground)
+
+[v.81] 17/10/2012
+  * added Chinese Language (thanks to kavid)
+
+[v.80] 16/10/2012
+  * added Waninkoko WAD Manager 1.7
+  * update GX latest beta release to 1203
+  * update Genesis Plus GX to 1.7.1
+
+[v.79] and earlier
+  * no changelog, sorry... and I can't remeber what I add in each version.. =P

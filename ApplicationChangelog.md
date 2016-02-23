@@ -1,0 +1,372 @@
+# Application Changelog #
+
+[v5.4] 14/01/2014
+  * Added Dialog box (for confirm) before save script in case of patched IOS checked
+  * sorry for those release but code.google tomorrow stop upload. =(
+
+[v5.3] 14/01/2014
+  * Added Check box for download Active IOS with d2x cIOS (for run burned DVD from disc channel)
+
+[v5.2] 13/01/2014
+  * Other changes in cIOS editor
+
+[v5.1] 08/01/2014
+  * Little fix in editor for cIOS.
+
+[v5.0] 04/01/2014
+  * Little fix in Mod-Your-Wii page (Check box for download hackmii installer IOS wasn't checked at startup)
+  * Improve function for create patched IOS
+  * Little graphics adjustment
+  * No more release. (code.google wont permit more upload)
+
+[v4.2] 01/01/2014
+  * Little fix. No changes.
+
+[v4.1] 01/01/2014
+  * Added Neogamma (recompiled full channel) in Mod-Your-Wii page
+  * Added d2x beta53 in Mod-Your-Wii page
+  * Added other md5 check
+  * Happy new year !
+
+[v4.0] 27/05/2013
+  * Little changes in error description (for a further wiki page)
+  * Great changes in my life: Two days ago I became father of a beautiful girl!!! =D
+
+[v3.5] 12/05/2013
+  * Add a message in cause of time-out using external applications (99% is a firewall/antivirus problem)
+
+[v3.4] 02/05/2013
+  * Fixed an issue in case of bad download (wrong MD5) for tools file from code.google
+
+[v3.3] 14/04/2013
+  * Add function for extract .tar.gz archive
+
+[v3.2] 05/04/2013
+  * Added some message (in more language) for explain why is necessary to put MAC address (using "mod your Wii")
+  * Some other little fixes
+
+[v3.1] 04/04/2013
+  * Some graphic adjust for user with DPI setting to 125 % (with 150 actually Wiidownloader is quite bad)
+  * Now application will take admin privileges at start-up
+
+[v3.0] 27/03/2013
+  * Some little change in credits (more clean page)
+  * No big changes, only for say that until no one will report me a problem: NO MORE RELEASE. ;) .. I'm try only to keep update database.
+
+[v2.9] 23/03/2013
+  * Added option for enable/disable console view when external program are used. This is useful in case of problem for check easily where is the problem.
+  * A little fix for base downloaded in Hermes cIOS: now creation for 224 Hermes cIOS is a little bit faster
+  * Changed a parameter in function for start external program (useshellexecute = true).
+
+[v2.8] 12/03/2013
+  * Now all is hosted in code.google
+  * Some graphics change
+  * Changed function in start-up check
+  * Improved off-line mode
+
+[v2.7] 12/02/2013
+  * Changed function for get file name to download in Editor
+
+[v2.6] 06/02/2013
+  * Changed function for execute external program
+  * Added NaxoR93 in credits for translations
+  * "Probably" NO MORE RELEASE (if no one have problem with this obviously)
+
+[v2.5.0] 24/01/2013
+  * Changed function for search link in bootmii or mediafire
+  * Small code clean
+  * Some minor fix
+
+[v2.4.5] 21/01/2013
+  * Some little fix
+  * removed russian support in languages
+
+[v2.4.4] 15/01/2013
+  * Increased time for create cIOS
+
+[v2.4.3] 12/01/2013
+  * Added a warning message in Editor Mode (only for download from NUS)
+  * Added MD5 check for Modmii.zip download
+
+[v2.4.2] 07/01/2013
+  * Little typo error (a classic for me). =P
+
+[v2.4.1] 07/01/2013
+  * Now Wilbrand will not be selected in tutorial if MAC address isn't write
+
+[v2.4.0] 02/01/2013
+  * Now, one first problem in a download, the program try to re-donwloaded it automatically (On second time, ask to user what to do)
+  * Download function now, check file-size less frequently, to use less memory.
+
+[v2.3.9] 02/01/2013
+  * Changed MD5 check function
+  * Changed standard download function
+
+[v2.3.8] 01/01/2012
+  * Test version
+
+[v2.3.7] 31/12/2012
+  * Increased time for download before time-out warning (now 25 seconds of inactivity).
+  * HAPPY NEW YEAR!!! <sup>____</sup>
+
+[v2.3.6] 30/12/2012
+  * Now recomended cIOS include d2x-v10-beta52 (no more v8-final)
+  * Little graphics change in "About your wii.." form
+
+[v2.3.5] 27/12/2012
+  * Little speed increase when used external program
+
+[v2.3.4] 25/12/2012
+  * Fixed (I think) problem with antivirus
+
+[v2.3.3] 25/12/2012
+  * Test versione for understand a problem with some antivirus
+
+[v2.3.2] 24/12/2012
+  * Added support for d2x v10
+
+[v2.3.1] 24/12/2012
+  * Increase time for create cIOS with Modmii to 5 minutes. After it: time out error
+
+[v2.3.0] 23/12/2012
+  * removed use uf sharpii: Now I use only NUSD.exe (all download wad form NUS in cache will be re-downloaded, because the MD5 is different)
+
+[v2.2.9] 19/12/2012
+  * little issue in some message
+
+[v2.2.8] 19/12/2012
+  * Now also wilbrand works if lacunhed in a folder withn't ANSI format (like Chinese characters)
+
+[v2.2.7] 19/12/2012
+  * Code clean and slight increase in the speed of execution of external programs
+
+[v2.2.6] 18/12/2012
+  * Fixed a possible problem when program is in folder NOT in ANSI format
+
+[v2.2.5] 18/12/2012
+  * Finally fixed an issue with Windows Vista: Now Wiidownloader works without any problem with every Windows version (32 bit and 64 bit)
+
+[v2.2.4] 17/12/2012
+  * Added button (1) in guide/tutorial
+  * Probably fixed a problem with Windows Vista SO
+
+[v2.2.3] 16/12/2012
+  * ... to much time Hackmii doesn't work (Now Wiidownloder will use Hackmii Installer 1.2)
+
+[v2.2.2] 15/12/2012
+  * Hackmii Instller 1.0 came back in bootmii.org... (and also for wiidownloader guide)
+
+[v2.2.1] 14/12/2012
+  * Fix an issue in tutorial about Hackmii Installer
+
+[v2.2.0] 14/12/2012
+  * HackMii Installer 1.0 link seek removed by TT. Now in guide will be used 1.2
+
+[v2.1.9] 14/12/2012
+  * Changed Wiidownloader auto-update. Form this release it work without problem also using XP home edition
+
+[v2.1.8] 12/12/2012
+  * Now is possible to download Hackmii Installer 1.0 or Hackmii Installer 1.2
+
+[v2.1.7] 12/12/2012
+  * Fixed an issue with Help button
+
+[v2.1.6] 08/12/2012
+  * Return to Hackmii Installer 1.0 (there is already the link in bootmii.org)
+
+[v2.1.5] 08/12/2012
+  * Add a message box at the end of download (if no problem as occured) when using the script for create the guide.
+
+[v2.1.4] 08/12/2012
+  * Update search in bootmii.org for new Hackmii Installer 1.2
+
+[v2.1.3] 08/12/2012
+  * Update search in bootmii.org for new Hackmii Installer 1.1
+
+[v2.1.2] 07/12/2012
+  * Added code for show also [-] button image in tutorial
+
+[v2.1.1] 07/12/2012
+  * Fixed a little issue in progress bar
+
+[v2.1] 07/12/2012
+  * Now guide will be created on an HTML file with some images (more nice and practice)
+  * Fixed issue for blank text, in case of missing language files (thanks to Ayatus for suggestion)
+  * Add MD5 check to other program file
+  * Added minimize button
+  * Other minor changes
+
+[v2.0.1] 01/12/2012
+  * Add creation of "error\_log.txt" in the same folder of Wiidownloader. That file will be created when some problems occurs during downloading or creating cIOS. It can be useful for me for understand if there are some problem in the application.
+
+[v2.0] 01/12/2012
+  * From this release isn't needed NET 3.5, but only NET 2.0
+
+[v1.9.5] 29/11/2012
+  * Added "set do deafult" in "about your wii" options
+  * Some little changes in the functions to calculate the percentage in progress bar
+
+[v1.9.4] 28/11/2012
+  * Fixed an issue with 64 bit SO: now it works correctly without problem on 32 and 64 bit SO.
+
+[v1.9.3] 25/11/2012
+  * Some change in 'About your Wii' menu: Now WAM will be automatic downloaded if necessary
+
+[v1.9.2] 23/11/2012
+  * Now when Wiidownloader update Database, will be downloaded also "Wiidownloaderchangelog.txt"
+
+[v1.9.1] 22/11/2012
+  * Little correction in tutorial creating.
+
+[v1.9.0] 17/11/2012
+  * Make some little change in the "About Your Wii" menu.
+
+[v1.8.9] 16/11/2012
+  * Only a little graphic change in "HELP"
+  * Now Wiidownloader start-up is little more faster.
+
+[v1.8.8] 14/11/2012
+  * Fixed a problem downloading Wiiflow Forwarder in "about your wii"
+  * Update WAM to 2.7 in the feature for create script.
+
+[v1.8.7] 14/11/2012
+  * Fixed a problem downloading more Loader in "about your wii"
+
+[v1.8.6] 13/11/2012
+  * Update WAM to 2.5 in the feature for create script.
+
+[v1.8.5] 13/11/2012
+  * Changed internal function for check/create folders.
+
+[v1.8.4] 11/11/2012
+  * Added greeting at the end of tutorial <sup>__</sup>
+
+[v1.8.3] 11/11/2012
+  * Almost completed tutorial created and help guide.
+
+[v1.8.2] 09/11/2012
+  * Only correction on text alignment
+
+[v1.8.1] 09/11/2012
+  * Test version
+
+[v1.8.0] 09/11/2012
+  * Only some typo error.
+
+[v1.7.9] 09/11/2012
+  * Ok, fixed list of WADs in tutorial.
+
+[v1.7.8] 09/11/2012
+  * The list of WAD in the guide can be not correct, I will fix as soon as possible
+
+[v1.7.7] 09/11/2012
+  * Added support for help and create guide in "about your wii" menu
+(version removed for a moment, need to fix a thing)
+
+[v1.7.6] 07/11/2012
+  * Now from the page for create the script for mod a wii, the application for default will use "WAM" with wilbrand. And WAM will be the only wad downloaded.
+
+[v1.7.5] 06/11/2012
+  * Added others control when a downloaded archive contains files that are in "read only" mode. (like "Bash The Castle")
+
+[v1.7.4] 04/11/2012
+  * Now application check, before copy to device, if there is necessary space available. (is difficult that can be happen.. but why don't check it? =P )
+  * Fixed a possible freeze starting downloading
+
+[v1.7.3] 03/11/2012
+  * Little fix: I forgot to make editable "cache" in menu item, sorry
+
+[v1.7.2] 03/11/2012
+  * Added MD5 check for all tools file.
+
+[v1.7.1] 02/11/2012
+  * Little correction in "script edit" (because in previous version I remove use of SFK).
+  * Add message when application write data to selected device.
+  * Change some "ErrorMessage" in "WarningMessage" (before all was Error message...  not correct).
+  * Timeout set at 20 seconds (before was 15)
+
+[v1.7] 01/11/2012
+  * Added OFFLINE MODE: Now Wiidownloader can be used also with no connection (but only if the files to download are just downloaded previously)
+  * Added support for russian language
+  * Add some message when dropbox don't be on-line and database or application can't be updated.
+  * Add some check and message when a file that must be used by wiidownloader, but is used or open by other process
+  * Remove use of SFK for filter dynamic link (mediafire and bootmii)
+
+[v1.6.3] 01/10/01/2012
+  * LOL... Addoed only an initial message when Wiidownloader can't start because dropbox is down.
+
+[v1.6.2] 30/10/2012
+  * Added controls for haven't any crash (especially with folder open in explorer).
+  * Added initial check for check if network connection is available.
+  * Other minor changes.
+
+[v1.6.1] 29/10/2012
+  * Now deleting all file in cache, will be deleted also the files created with modmii (in the next download ALL will be recreated/downloaded)
+
+[v1.6] 29/10/2012
+  * Add some cache options: enable, disable and delete alle file in cache
+  * Add link to 91wii.com (for chinese support forum)
+
+[v1.5.1] 28/10/2012
+  * code clean
+
+[v1.5] 28/10/2012
+  * BIG BIG changes: now isn't necessary NET 4.0, but only NET 3.5... that is just necessary for Modmii. (There is no need to install too many things.)
+
+[v1.4.5] 26/10/2012
+  * Add a check for ID and version in cached file
+
+[v1.4.4] 26/10/2012
+  * Improved use of cache feature. Now really faster! =)
+  * Next step to add: free cache, disable/enable cache, delete all downloaded files
+
+[v1.4.3] 25/10/2012
+  * Now in "Aboot your Wii", when a script will create, all information and chech box checked will be saved in settings.ini (not only FW and MacAddress)
+
+[v1.4.2] 24/10/2012
+  * Only code clean
+
+[v1.4.1] 24/10/2012
+  * Little typo error in editor mode
+
+[v1.4] 24/10/2012
+  * Added use of "cache" also for file downloaded form url (downloading IOS or cIOS, this feature was already done in previous version)
+  * Add more customizable text in editor mode
+  * Other minor graphical changes
+
+[v1.3] 23/10/2012
+  * Added info about version of application and database in the main page.
+  * Other minor changes for haven't any freeze or crash in downloading (or when download is stopped)
+
+[v1.2.0] 20/10/2012
+  * YEAAAA! FIXED! ...I'm talking about a problem that would happen (in particular condition) using NUSD.EXE or SHARPII.EXE (too long to explain.. but now is OK)
+
+[v1.1.9] 20/10/2012
+  * add other chack in case of freeze (or stopped by user) during and after use of external program. Now i hope to have take all possible case.
+  * Actually I add a static timer when usign particoular external program not easy to monitorate: 60 seconds for create a cIOS (not for download the base) and 20 second for other simply operations (that in normal condition will take 2 seconds)
+
+[v1.1.8] 19/10/2012
+  * add more check using any external program (in case of freeze with them)
+
+[v1.1.7] 18/10/2012
+  * only little layout changes
+
+[v1.1.6] 18/10/2012
+  * added support for Dutch Language
+
+[v1.1.5] 17/10/2012
+  * Found and fixed a possible error using the the feature for create script (alwyas caused by the add of unicode encoding creating files)
+
+[v1.1.4] 17/10/2012
+  * sorry, adding the use of Unicode encoding for support chinese language I broken the feature for create cIOS: fixed.
+
+[v1.1.3] 17/10/2012
+  * added support for Chinese Language
+
+[v1.1.2] 16/10/2012
+  * add link for changelog  in "about" menu
+  * add authors of translation
+  * add info when downloading a wad of system menù (es: RVL-WiiSystemmenu-v450 = 4.1E )
+
+[v1.1.1] and earlier
+  * no changelog, sorry... but it's the first stable version! =)
